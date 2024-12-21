@@ -6,3 +6,9 @@ pip install aiogram
 
 .env faylga bot tokenini kiritasz
 API_KEY=botiz tokeni
+
+
+
+
+
+dddddddddddd
